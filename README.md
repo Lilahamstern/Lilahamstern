@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://img.shields.io/badge/Mail-PGP%20Key-informational?logo=protonmail)](https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa)
-### Greeting Traveler, I'am [Leo Rönnebro][website] and I will guide be your guide. 
+### Greeting Traveler, I'am [Leo Rönnebro][website] and I will be your guide. 
 
 ### Information
  - I am currently working as Systems Engineer at [AI Sweden](https://ai.se).
