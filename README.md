@@ -19,31 +19,32 @@
 
 ### Languages
 
-[<img align="left" alt="Go" width="32px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />][website]
-[<img align="left" alt="PHP" width="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />][website]
-[<img align="left" alt="Java" width="32px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][website]
+[<img align="left" alt="Go" width="32px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />][go]
+[<img align="left" alt="PHP" width="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />][php]
+[<img align="left" alt="Java" width="32px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
 
 <br />
 
 #### Learning
 
-[<img align="left" alt="Rust" width="32px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />][website]
+[<img align="left" alt="Rust" width="32px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />][rust]
 
 <br />
 
 ### Tools
 
-[<img align="left" alt="Emacs" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" />][website]
-[<img align="left" alt="Vim" width="32px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />][website]
-[<img align="left" alt="Docker" width="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />][website]
-[<img align="left" alt="Ansible" width="32px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />][website]
-[<img align="left" alt="PostgreSQL" width="32px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />][website]
+[<img align="left" alt="Emacs" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" />][emacs]
+[<img align="left" alt="Vim" width="32px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />][vim]
+[<img align="left" alt="Docker" width="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />][docker]
+[<img align="left" alt="Ansible" width="32px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />][ansible]
+[<img align="left" alt="PostgreSQL" width="32px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />][postgresql]
 
 <br />
 
 #### Learning
-[<img align="left" alt="K8s" width="32px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />][website]
-[<img align="left" alt="Laravel" width="32px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][website]
+[<img align="left" alt="K8s" width="32px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />][k8s]
+[<img align="left" alt="Racnher" width="32px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" />][rancher]
+[<img align="left" alt="Laravel" width="32px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][laravel]
 
 <br />
 <br />
@@ -57,3 +58,16 @@
 [mail]: mailto:leo.ronnebro@nerdyhamster.net
 [pgpKey]: https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa
 [cardsCredit]: https://github.com/anuraghazra/github-readme-stats
+
+[go]: https://golang.org/
+[php]: https://www.php.net/
+[java]: https://www.java.com/en/
+[rust]: https://www.rust-lang.org/
+[emacs]: https://www.gnu.org/software/emacs/
+[vim]: https://www.vim.org/
+[docker]: https://www.docker.com/
+[ansible]: https://www.ansible.com/
+[postgresql]: https://www.postgresql.org/
+[k8s]: https://kubernetes.io/
+[rancher]: https://rancher.com/
+[laravel]: https://laravel.com/
