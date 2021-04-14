@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://img.shields.io/badge/Mail-PGP%20Key-informational?logo=protonmail)](https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa)
 ### Greeting Traveler, I'am [Leo Rönnebro][website] and I will be your guide. 
 
 ### Information
@@ -8,10 +7,10 @@
 
 
 ### Connect with at:
-
-[<img align="left" alt="nerdyhamster.net" width="50" src="https://www.flaticon.com/svg/vstatic/svg/1150/1150626.svg?token=exp=1617458811~hmac=1b2ba3c495d2534378d71c3625fb6743" />][website]
-[<img align="left" alt="Leo Rönnebro | LinkedIn" width="100" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]
-[<img align="left" alt="leo.ronnebro@nerdyhamster.net | Mail" width="100" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" />][mail]
+[![Website nerdyhamster.net](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=read-the-docs&logoColor=white&link=https://nerdyhamster.net)][website]
+[![Linkedin Leo Rönnebro](https://img.shields.io/badge/-Leo_Rönnebro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-ronnebro)][linkedin]
+[![Mail leo.ronnebro@hamsterapps.net](https://img.shields.io/badge/-leo.ronnebro@nerdyhamster.net-505264?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:leo.ronnebro@nerdyhamster.net)][mail]
+[![PGP Key Mail](https://img.shields.io/badge/-Mail%20PGP%20Key-505264?logo=protonmail&style=flat-square)](https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa)]
 
 
 <br />
