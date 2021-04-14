@@ -12,10 +12,6 @@
 [![Mail leo.ronnebro@hamsterapps.net](https://img.shields.io/badge/-leo.ronnebro@nerdyhamster.net-505264?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:leo.ronnebro@nerdyhamster.net)][mail]
 [![PGP Key Mail](https://img.shields.io/badge/-Mail%20PGP%20Key-505264?logo=protonmail&style=flat-square)](https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa)
 
-
-<br />
-<br />
-
 ### Languages
 
 [<img align="left" alt="Go" width="32px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />][go]
