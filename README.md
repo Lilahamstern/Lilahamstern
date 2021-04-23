@@ -6,7 +6,7 @@
  - My daily driver is [<img alt="Arch" width="26px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />][website] btw!
 
 
-### Connect with at:
+### Connect with me at:
 [![Website nerdyhamster.net](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=read-the-docs&logoColor=white&link=https://nerdyhamster.net)][website]
 [![Linkedin Leo Rönnebro](https://img.shields.io/badge/-Leo_Rönnebro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-ronnebro)][linkedin]
 [![Mail leo.ronnebro@hamsterapps.net](https://img.shields.io/badge/-leo.ronnebro@nerdyhamster.net-505264?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:leo.ronnebro@nerdyhamster.net)][mail]
