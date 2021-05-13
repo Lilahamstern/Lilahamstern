@@ -17,6 +17,8 @@
 [<img align="left" alt="Go" width="32px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />][go]
 [<img align="left" alt="PHP" width="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />][php]
 [<img align="left" alt="Java" width="32px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
+[<img align="left" alt="DotNET" width="32px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" />][dotnet]
+
 
 <br />
 
@@ -57,6 +59,7 @@
 [go]: https://golang.org/
 [php]: https://www.php.net/
 [java]: https://www.java.com/en/
+[dotnet]: https://dotnet.microsoft.com/
 [rust]: https://www.rust-lang.org/
 [emacs]: https://www.gnu.org/software/emacs/
 [vim]: https://www.vim.org/
