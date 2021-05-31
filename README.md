@@ -1,16 +1,29 @@
-### Greeting Traveler, I'am [Leo Rönnebro][website] and I will be your guide. 
+<p align="center">
+<b><a href="https://nerdyhamster.net">Website</a></b>
+•
+<b><a href="https://ai.se">Systems Engineer @ AI Sweden</a></b>
+•
+<b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+•
+<b><a href="https://archlinux.org">Arch user</a></b>
+•
+<b><a href="mailto:leo@nerdyhamster.net"> Email me</a></b>
+</p>
 
-### Information
- - I am currently working as Systems Engineer at [AI Sweden](https://ai.se).
- - I am studying .NET Development at Teknik Högskolan
- - My daily driver is [<img alt="Arch" width="26px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />][website] btw!
+<h3 align="center">Connect with me!</h3>
+<p align="center">
+ <a href="https://www.linkedin.com/in/leo-ronnebro">
+  <img src="https://img.shields.io/badge/Linkedin-0e76a8.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
+ </a>
+ <a href="mailto:leo@nerdyhamster.net">
+ <img src="https://img.shields.io/badge/Mail-505264.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white?link=mail:leo@nerdyhamster.net" />
+ </a>
+ <a href="https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa">
+  <img src="https://img.shields.io/badge/PGP_Key-505264.svg?&style=for-the-badge&logo=Monkey-tie&logoColor=white"/>
+ </a>
+</p>
 
-
-### Connect with me at:
-[![Website nerdyhamster.net](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=read-the-docs&logoColor=white&link=https://nerdyhamster.net)][website]
-[![Linkedin Leo Rönnebro](https://img.shields.io/badge/-Leo_Rönnebro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-ronnebro)][linkedin]
-[![Mail leo.ronnebro@hamsterapps.net](https://img.shields.io/badge/-leo.ronnebro@nerdyhamster.net-505264?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:leo.ronnebro@nerdyhamster.net)][mail]
-[![PGP Key Mail](https://img.shields.io/badge/-Mail%20PGP%20Key-505264?logo=protonmail&style=flat-square)](https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa)
+<hr />
 
 ### Languages
 
