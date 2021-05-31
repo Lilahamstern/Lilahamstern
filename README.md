@@ -23,6 +23,10 @@
  </a>
 </p>
 
+<div align="center">
+ <b>A Systems Engineer and student, with intressts in</b><br>
+ <b>Open Source, Security, Linux and much more.</b>
+</div>
 <hr />
 
 ### Languages
