@@ -1,13 +1,13 @@
 <p align="center">
-<b><a href="https://nerdyhamster.net">Website</a></b>
-•
-<b><a href="https://ai.se">Systems Engineer @ AI Sweden</a></b>
-•
-<b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
-•
-<b><a href="https://archlinux.org">Arch user</a></b>
-•
-<b><a href="mailto:leo@nerdyhamster.net"> Email me</a></b>
+  <b><a href="https://nerdyhamster.net">Website</a></b>
+  •
+  <b><a href="https://ai.se">Systems Engineer @ AI Sweden</a></b>
+  •
+  <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+  •
+  <b><a href="https://archlinux.org">Arch user</a></b>
+  •
+  <b><a href="mailto:leo@nerdyhamster.net"> Email me</a></b>
 </p>
 
 <h3 align="center">Connect with me!</h3>
@@ -27,62 +27,70 @@
  <b>A Systems Engineer and student, with intressts in</b><br>
  <b>Open Source, Security, Linux and much more.</b>
 </div>
+
 <hr />
 
-### Languages
+<h3 align="center">Languages!</h3>
+<p align="center">
+ <a href="https://golang.org">
+  <img src="https://img.shields.io/badge/Golang-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+ </a>
+ <a href="https://php.net">
+ <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+ </a>
+ <a href="https://java.com">
+  <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+ </a>
+ <a href="https://dotnet.microsoft.com">
+  <img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=dot-net&logoColor=white"/>
+ </a>
+</p>
 
-[<img align="left" alt="Go" width="32px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />][go]
-[<img align="left" alt="PHP" width="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />][php]
-[<img align="left" alt="Java" width="32px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
-[<img align="left" alt="DotNET" width="32px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" />][dotnet]
+<h4 align="center">Learning!</h4>
+<p align="center">
+ <a href="https://rust-lang.org">
+  <img src="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
+ </a>
+</p>
+
+<hr/>
+
+<h3 align="center">Tools!</h3>
+<p align="center">
+ <a href="https://neovim.io">
+  <img src="https://img.shields.io/badge/Neovim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+ </a>
+ <a href="https://docker.com">
+ <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
+ </a>
+ <a href="https://postgresql.org">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+ </a>
+ <a href="https://ansible.com">
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+ </a>
+ <a href="https://www.gnu.org/software/emacs/">
+  <img src="https://img.shields.io/badge/Emacs-7F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/>
+ </a>
+</p>
 
 
-<br />
+<h4 align="center">Learning!</h4>
+<p align="center">
+ <a href="https://symfony.com">
+  <img src="https://img.shields.io/badge/Symfony-000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white" />
+ </a>
+ <a href="https://kubernetes.io">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+ </a>
+ <a href="https://rancher.com">
+  <img src="https://img.shields.io/badge/Rancher-0075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white" />
+ </a>
+ <a href="https://terraform.io">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
+ </a>
+</p>
 
-#### Learning
+<img align="left" alt="Readme Cards" src="https://github-readme-stats.vercel.app/api?username=TheNerdyHamster&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&custom_title=The%20Nerdy%20Hamster%27s%20Profile%20Card" />
 
-[<img align="left" alt="Rust" width="32px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />][rust]
-
-<br />
-
-### Tools
-
-[<img align="left" alt="Emacs" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" />][emacs]
-[<img align="left" alt="Vim" width="32px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />][vim]
-[<img align="left" alt="Docker" width="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />][docker]
-[<img align="left" alt="Ansible" width="32px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />][ansible]
-[<img align="left" alt="PostgreSQL" width="32px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />][postgresql]
-
-<br />
-
-#### Learning
-[<img align="left" alt="K8s" width="32px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />][k8s]
-[<img align="left" alt="Racnher" width="32px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" />][rancher]
-[<img align="left" alt="Laravel" width="32px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][laravel]
-
-<br />
-<br />
-
-[<img align="left" alt="Readme Cards" src="https://github-readme-stats.vercel.app/api?username=TheNerdyHamster&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&custom_title=The%20Nerdy%20Hamster%27s%20Profile%20Card" />][cardsCredit]
-
-[<img align="left" alt="Readme Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNerdyHamster&layout=compact&hide_border=true&theme=dracula&hide=c&langs_count=9" />][cardsCredit]  
-
-[website]: http://nerdyhamster.net/
-[linkedin]: https://www.linkedin.com/in/leo-ronnebro/
-[mail]: mailto:leo.ronnebro@nerdyhamster.net
-[pgpKey]: https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa
-[cardsCredit]: https://github.com/anuraghazra/github-readme-stats
-
-[go]: https://golang.org/
-[php]: https://www.php.net/
-[java]: https://www.java.com/en/
-[dotnet]: https://dotnet.microsoft.com/
-[rust]: https://www.rust-lang.org/
-[emacs]: https://www.gnu.org/software/emacs/
-[vim]: https://www.vim.org/
-[docker]: https://www.docker.com/
-[ansible]: https://www.ansible.com/
-[postgresql]: https://www.postgresql.org/
-[k8s]: https://kubernetes.io/
-[rancher]: https://rancher.com/
-[laravel]: https://laravel.com/
+<img align="left" alt="Readme Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNerdyHamster&layout=compact&hide_border=true&theme=dracula&hide=c&langs_count=9" />
