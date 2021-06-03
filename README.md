@@ -1,6 +1,8 @@
 <p align="center">
   <b><a href="https://nerdyhamster.net">Website</a></b>
   •
+  <b><a href="https://sr.ht/~thenerdyhamster/">Sr.ht</a></b>
+  •
   <b><a href="https://ai.se">Systems Engineer @ AI Sweden</a></b>
   •
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
