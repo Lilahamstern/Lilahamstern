@@ -1,5 +1,5 @@
 <p align="center">
-  <b><a href="https://nerdyhamster.net">Website</a></b>
+  <b><a href="https://letnh.com">Website</a></b>
   •
   <b><a href="https://sr.ht/~thenerdyhamster/">Sr.ht</a></b>
   •
@@ -9,7 +9,7 @@
   •
   <b><a href="https://archlinux.org">Arch user</a></b>
   •
-  <b><a href="mailto:leo@nerdyhamster.net"> Email me</a></b>
+  <b><a href="mailto:leo@letnh.com"> Email me</a></b>
 </p>
 
 <h3 align="center">Connect with me!</h3>
@@ -17,8 +17,8 @@
  <a href="https://www.linkedin.com/in/leo-ronnebro">
   <img src="https://img.shields.io/badge/Linkedin-0e76a8.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
  </a>
- <a href="mailto:leo@nerdyhamster.net">
- <img src="https://img.shields.io/badge/Mail-505264.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white?link=mail:leo@nerdyhamster.net" />
+ <a href="mailto:leo@letnh.com">
+ <img src="https://img.shields.io/badge/Mail-505264.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white?link=mail:leo@letnh.com" />
  </a>
  <a href="https://gist.github.com/TheNerdyHamster/6a9b8665ccff590d5f71575f65cb94fa">
   <img src="https://img.shields.io/badge/PGP_Key-505264.svg?&style=for-the-badge&logo=Monkey-tie&logoColor=white"/>
