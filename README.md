@@ -82,14 +82,17 @@
  <a href="https://symfony.com">
   <img src="https://img.shields.io/badge/Symfony-000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white" />
  </a>
+ <a href="https://jenkins.io">
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
+ </a>
+ <a href="https://terraform.io">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
+ </a>
  <a href="https://kubernetes.io">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
  </a>
  <a href="https://rancher.com">
   <img src="https://img.shields.io/badge/Rancher-0075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white" />
- </a>
- <a href="https://terraform.io">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
  </a>
 </p>
 
