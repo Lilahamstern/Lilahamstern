@@ -12,6 +12,10 @@
   <b><a href="mailto:leo@letnh.com"> Email me</a></b>
 </p>
 
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/TheNerdyHamster.png" alt="TryHackMe">
+</p>
+
 <h3 align="center">Connect with me!</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/leo-ronnebro">
@@ -95,7 +99,3 @@
   <img src="https://img.shields.io/badge/Rancher-0075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white" />
  </a>
 </p>
-
-<img align="left" alt="Readme Cards" src="https://github-readme-stats.vercel.app/api?username=TheNerdyHamster&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&custom_title=The%20Nerdy%20Hamster%27s%20Profile%20Card" />
-
-<img align="left" alt="Readme Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNerdyHamster&layout=compact&hide_border=true&theme=dracula&hide=c&langs_count=9" />
