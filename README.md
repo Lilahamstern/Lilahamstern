@@ -3,8 +3,6 @@
   •
   <b><a href="https://sr.ht/~thenerdyhamster/">Sr.ht</a></b>
   •
-  <b><a href="https://ai.se">Systems Engineer @ AI Sweden</a></b>
-  •
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
   •
   <b><a href="https://archlinux.org">Arch user</a></b>
@@ -30,7 +28,7 @@
 </p>
 
 <div align="center">
- <b>A Systems Engineer and student, with intressts in</b><br>
+ <b>A Linux/OpenSource Engineer and student, with intressts in</b><br>
  <b>Open Source, Security, Linux and much more.</b>
 </div>
 
